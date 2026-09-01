@@ -1,0 +1,6 @@
+{
+  "name": "prepIQ",
+  "description": "Intelligent mock interview platform dynamically generated from your resume qualifications and credentials.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
